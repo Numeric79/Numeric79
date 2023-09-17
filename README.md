@@ -1,15 +1,15 @@
 # Hi, I'm Hyun 
 
-
+안녕하세요. 현재 연세대학교 미래캠퍼스 전산학과에 재학중인 우석현입니다.
 <br />
 
-#### 📖 &nbsp;&nbsp;[aralroca.com](https://aralroca.com): Last 5 articles
+#### 📖[aralroca.com](https://aralroca.com): Last 5 articles
  
-* [👋 Say Goodbye to Spread Operator: Use Default Composer](https://aralroca.com/blog/default-composer) 
-* [Creating Scalable and Reusable React Components](https://aralroca.com/blog/creating-scalable-and-reusable-react-components) 
-* [🏝️ i18n translations in Next.js 13's app-dir for server/client components 🌊](https://aralroca.com/blog/i18n-translations-nextjs-13-app-dir) 
-* [Teaful DevTools Released!](https://aralroca.com/blog/teaful-devtools) 
-* [Teaful: tiny, easy and powerful React state management](https://aralroca.com/blog/teaful)
+* [👋 Say Goodbye to Spread Operator: Use Default Composer]
+* [Creating Scalable and Reusable React Components]
+* [🏝️ i18n translations in Next.js 13's app-dir for server/client components 🌊] 
+* [Teaful DevTools Released!]
+* [Teaful: tiny, easy and powerful React state management]
 
 <br />
 
