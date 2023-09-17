@@ -3,7 +3,7 @@
 안녕하세요. 현재 연세대학교 미래캠퍼스 전산학과에 재학중인 우석현입니다.
 <br />
 
-#### 📖[aralroca.com](https://aralroca.com): Last 5 articles
+#### 📖학부 과정: 인상깊었던 활동들
  
 * [👋 Say Goodbye to Spread Operator: Use Default Composer]
 * [Creating Scalable and Reusable React Components]
